@@ -55,9 +55,13 @@ Some Description
 
 ## 💬 Community
 
-If you have a question or would like to talk with other Umm users and join our community, please hop over to [Github discussions](https://github.com/ummdotco/Website/discussions)
+We have a friendly and active community of Umm users who are always happy to help out and discuss the tool. If you have a question, encounter any issues, or just want to chat with other users, you can join us on Github discussions. Simply head over to the "Discussions" tab on the Umm repository page and post your question or comment.
 
-<br /><br />
+We encourage you to join the conversation and get involved in the community. Whether you're a seasoned developer or just getting started, we welcome you to share your thoughts and experiences with Umm. We're always looking for ways to improve the tool and your feedback is valuable to us.
+
+We hope to see you in the [discussions!](https://github.com/ummdotco/Website/discussions)
+
+<br />
 
 
 
