@@ -11,7 +11,7 @@
   A private social media messaging app for the generation'Z
 </h3>
 <p align="center">
-  Umm, is a simple, smooth, and fast social media messaging app to chat with anyone in the whole universe.
+  Umm is an exciting new social media messaging app designed for the next generation of users. With a focus on privacy and security, Umm is built to provide a simple, smooth, and fast messaging experience for anyone in the world.
 </p>
 
 <h3 align="center">
@@ -28,26 +28,24 @@
 ## ✨ Features
 
 ### Build and ship real software 
-Some Description 
-
-<br /><br />
+Umm is built with a focus on usability, performance, and reliability, ensuring that you can chat with anyone in the world quickly and easily.
+<br />
 
 ### Open source and extensible
-Some Description 
-
-<br /><br />
-
+Umm is an open-source project, which means that it is open to contributions from anyone in the community. If you're a developer, you can help us improve the app by proposing new features or fixing bugs.
+<br />
 ### Easy to use
-Some Description 
+Umm is designed to be easy to use for anyone, regardless of their technical background. The user interface is clean and intuitive, making it easy to navigate and find the features you need.
+<br />
 
-<br /><br />
 ### End to End Encrypted
+
+The app uses end-to-end encryption to protect your messages, so you can chat with confidence knowing that your conversations are safe and secure.
+
 <p align="center">
   <img alt="data" src="#">
 </p>
-<br /><br />
-
-
+<br />
 
 ---
 
@@ -106,11 +104,21 @@ A good place to start contributing, is the [First time issues project](https://g
 
 ## 📝 License
 
+Umm is released under the MIT License.
 
-<br /><br />
+<br />
 
 ## ⭐ Stargazers over time
 
-<br /><br />
-
+See how many people are interested in this project over time by viewing the [stargazers over time]
+<br />
 ## Contributors ✨
+
+See a list of people who have contributed to this project by viewing the [contributors](LINK TO LIST) page.
+
+## Get in touch
+If you have any questions or concerns, please feel free to reach out to us by email at [email] or on [social media platform]. We're always happy to help and would love to hear from you.
+
+Thank you for your interest in Umm. We hope you enjoy using the app as much as we enjoyed building it!
+
+
