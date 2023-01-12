@@ -57,7 +57,7 @@ We have a friendly and active community of Umm users who are always happy to hel
 
 We encourage you to join the conversation and get involved in the community. Whether you're a seasoned developer or just getting started, we welcome you to share your thoughts and experiences with Umm. We're always looking for ways to improve the tool and your feedback is valuable to us.
 
-We hope to see you in the [discussions!](https://github.com/ummdotco/Website/discussions)
+We hope to see you in the [discussions!](https://github.com/ummdotco/umm/discussions)
 
 <br />
 
