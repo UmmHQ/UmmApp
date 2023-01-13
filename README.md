@@ -52,7 +52,7 @@ We hope to see you in the [discussions!](https://github.com/ummdotco/umm/discuss
 
 ## 🙌 Contributing to Umm
 
-We welcome and appreciate any contributions to Umm! Whether you're looking to report a bug, propose a new feature, or make a change to the codebase, we're glad you're here.
+We welcome and appreciate any contributions to Umm! Whether you're looking to report a bug, propose a new feature, or make a change to the codebase, we're glad you're here. Before you start, We recommend you to read our [GUIDE BOOK.](https://github.com/ummdotorg/umm/blob/main/CONTRIBUTING.md)
 
 ### Opening a Bug Report
 If you've found a bug in Umm, we'd love to hear about it. Before opening a bug report, please check if the issue has already been reported by searching the existing issues. If the issue has not been reported, please open a new issue and include the following information:
@@ -88,23 +88,8 @@ We appreciate your contributions and will review your pull request as soon as po
 A good place to start contributing, is the [First time issues project](https://github.com/orgs/ummdotco/projects/1).
 <br /><br />
 
-
-## 📝 License
-
-Umm is released under the MIT License.
-
-<br />
-
-## ⭐ Stargazers over time
-
-See how many people are interested in this project over time by viewing the [stargazers over time]
-<br />
-## Contributors ✨
-
-See a list of people who have contributed to this project by viewing the [contributors](LINK TO LIST) page.
-
 ## Get in touch
-If you have any questions or concerns, please feel free to reach out to us by email at [email] or on [social media platform]. We're always happy to help and would love to hear from you.
+If you have any questions or concerns, please feel free to reach out to us by email at messenger.umm@gmail.com or on https://twitter.com/Ummdotco. We're always happy to help and would love to hear from you.
 
 Thank you for your interest in Umm. We hope you enjoy using the app as much as we enjoyed building it!
 
