@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.instagram.com/ummdotco">
-    <img alt="umm" src="https://raw.githubusercontent.com/ummdotco/graphics/main/logos/biglogo.png" width="60" />
+    <img alt="umm" src="https://raw.githubusercontent.com/ummdotorg/umm/main/assets/icon.png" width="60" />
   </a>
 </p>
 <h1 align="center">
@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="Umm design ui" src="https://raw.githubusercontent.com/ummdotco/graphics/main/logos/cover.png">
+  <img alt="Umm design ui" src="https://raw.githubusercontent.com/ummdotorg/umm/main/assets/banner.png">
 </p>
 
 <br />
