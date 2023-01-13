@@ -27,24 +27,13 @@
 
 ## ✨ Features
 
-### Build and ship real software 
-Umm is built with a focus on usability, performance, and reliability, ensuring that you can chat with anyone in the world quickly and easily.
-<br />
+**Open source and extensible:** Umm is an open-source project, which means that it is open to contributions from anyone in the community. If you're a developer, you can help us improve the app by proposing new features or fixing bugs.
 
-### Open source and extensible
-Umm is an open-source project, which means that it is open to contributions from anyone in the community. If you're a developer, you can help us improve the app by proposing new features or fixing bugs.
-<br />
-### Easy to use
-Umm is designed to be easy to use for anyone, regardless of their technical background. The user interface is clean and intuitive, making it easy to navigate and find the features you need.
-<br />
+**Easy to use:** Umm is designed to be easy to use for anyone, regardless of their technical background. The user interface is clean and intuitive, making it easy to navigate and find the features you need.
 
-### End to End Encrypted
+**End-to-end encryption:** The app uses end-to-end encryption to protect your messages, so you can chat with confidence knowing that your conversations are safe and secure.
 
-The app uses end-to-end encryption to protect your messages, so you can chat with confidence knowing that your conversations are safe and secure.
-
-<p align="center">
-  <img alt="data" src="#">
-</p>
+**And Many More!**
 
 ## 🖼️ Gallery
 
