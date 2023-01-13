@@ -13,9 +13,6 @@
 <p align="center">
   Umm is an exciting new social media messaging app designed for the next generation of users. With a focus on privacy and security, Umm is built to provide a simple, smooth, and fast messaging experience for anyone in the world.
 </p>
-
-<h3 align="center">
- 🤖 🎨 🚀
 </h3>
 <br>
 
@@ -25,7 +22,7 @@
 
 <br />
 
-## ✨ Features
+## Features
 
 **Open source and extensible:** Umm is an open-source project, which means that it is open to contributions from anyone in the community. If you're a developer, you can help us improve the app by proposing new features or fixing bugs.
 
@@ -35,12 +32,12 @@
 
 **And Many More!**
 
-## 🖼️ Gallery
+## Gallery
 
 
 <br/>
 
-## 💬 Community
+## Community
 
 We have a friendly and active community of Umm users who are always happy to help out and discuss the tool. If you have a question, encounter any issues, or just want to chat with other users, you can join us on Github discussions. Simply head over to the "Discussions" tab on the Umm repository page and post your question or comment.
 
@@ -50,7 +47,7 @@ We hope to see you in the [discussions!](https://github.com/ummdotco/umm/discuss
 
 
 
-## 🙌 Contributing to Umm
+## Contributing to Umm
 
 We welcome and appreciate any contributions to Umm! Whether you're looking to report a bug, propose a new feature, or make a change to the codebase, we're glad you're here. Before you start, We recommend you to read our [GUIDE BOOK.](https://github.com/ummdotorg/umm/blob/main/CONTRIBUTING.md)
 
