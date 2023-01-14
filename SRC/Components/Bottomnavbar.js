@@ -85,7 +85,7 @@ const styles = StyleSheet.create({
     activeicons1: {
         backgroundColor: '#5539FF',
         borderRadius: 50,
-        fontSize: 35,
+        fontSize: 30,
         padding: 10,
     }
 })

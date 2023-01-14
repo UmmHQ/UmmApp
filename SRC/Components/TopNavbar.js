@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View, Image } from 'react-native'
 import React from 'react'
-import logo from '../../assets/logo.png'
+import icon from '../../assets/icon.png'
 import { icons1, logo2 } from '../CommonCss/pagecss'
 import { Ionicons } from '@expo/vector-icons';
 import { MaterialIcons } from '@expo/vector-icons';
@@ -13,7 +13,7 @@ const TopNavbar = ({ navigation, page }) => {
             <MaterialIcons name="library-add" size={24} color="black" style={icons1}
                 onPress={() => navigation.navigate('AddPost')} />
 
-            <Image source={logo} style={logo2} />
+            <Image source={icon} style={logo2} />
             {
                 page === 'MainPage' &&
                 <Ionicons name="chatbubbles" size={24} color="black" style={icons1} onPress

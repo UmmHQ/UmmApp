@@ -94,7 +94,7 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         alignItems: 'center',
         padding: 10,
-        backgroundColor: 'black',
+        backgroundColor: '#5539FF',
     },
     profilepic: {
         width: 30,
@@ -116,7 +116,7 @@ const styles = StyleSheet.create({
     s2: {
         width: '100%',
         flexDirection: 'row',
-        backgroundColor: 'black',
+        backgroundColor: '#5539FF',
         padding: 10,
         alignItems: 'center',
     },
@@ -126,17 +126,17 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     notliked: {
-        color: 'grey',
+        color: 'black',
         marginLeft: 5,
         fontSize: 25,
     },
     liked: {
-        color: '#DC143C',
+        color: 'red',
         marginLeft: 5,
         fontSize: 25,
     },
     iconliked: {
-        color: '#DC143C',
+        color: 'red',
         fontSize: 30,
     },
     s22: {
@@ -144,7 +144,7 @@ const styles = StyleSheet.create({
     },
     s3: {
         width: '100%',
-        backgroundColor: '#111111',
+        backgroundColor: '#5539FF',
         padding: 10,
     },
     commentuser: {
@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
 
     },
     commenttext: {
-        color: 'grey',
+        color: 'black',
         fontSize: 17,
         marginLeft: 5,
     },
