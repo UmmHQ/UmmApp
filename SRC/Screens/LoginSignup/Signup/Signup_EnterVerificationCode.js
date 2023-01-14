@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View, Image, TextInput, TouchableOpacity } from 'react-native'
 import React, { useState } from 'react'
 import { containerFull, goback, hr80, logo1 } from '../../../CommonCss/pagecss'
-import logo from '../../../../assets/logo.png'
+import icon from '../../../../assets/icon.png'
 import { formbtn, formHead, formHead2, formHead3, formInput, formTextLinkCenter, formTextLinkRight } from '../../../CommonCss/Formcss'
 import { MaterialIcons } from '@expo/vector-icons';
 const Signup_EnterVerificationCode = ({ navigation, route }) => {
@@ -40,7 +40,7 @@ const Signup_EnterVerificationCode = ({ navigation, route }) => {
 
             </TouchableOpacity>
 
-            <Image source={logo} style={logo1} />
+            <Image source={icon} style={logo1} />
             <Text style={formHead3}>
                 A verification code has been sent to your email
             </Text>

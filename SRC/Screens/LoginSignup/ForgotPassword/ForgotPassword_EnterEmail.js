@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View, Image, TextInput, TouchableOpacity, ActivityIndicator } from 'react-native'
 import React from 'react'
 import { containerFull, goback, hr80, logo1 } from '../../../CommonCss/pagecss'
-import logo from '../../../../assets/logo.png'
+import icon from '../../../../assets/icon.png'
 import { formbtn, formHead, formHead2, formInput, formTextLinkCenter, formTextLinkRight } from '../../../CommonCss/Formcss'
 import { MaterialIcons } from '@expo/vector-icons';
 const ForgotPassword_EnterEmail = ({ navigation }) => {
@@ -56,7 +56,7 @@ const ForgotPassword_EnterEmail = ({ navigation }) => {
 
             </TouchableOpacity>
 
-            <Image source={logo} style={logo1} />
+            <Image source={icon} style={logo1} />
             <Text style={formHead2}>Verify Your Email</Text>
             <TextInput placeholder="Enter Your Email" style={formInput}
                 onChangeText={(text) => setEmail(text)}

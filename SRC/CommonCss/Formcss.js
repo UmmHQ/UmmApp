@@ -4,7 +4,7 @@ module.exports = {
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
-        // backgroundColor: 'white',
+         backgroundColor: '#5539FF',
     },
     formInput: {
         width: '80%',
@@ -18,25 +18,25 @@ module.exports = {
     },
     formbtn: {
         width: '80%',
-        backgroundColor: 'black',
+        backgroundColor: 'white',
         borderRadius: 10,
         borderColor: 'white',
         borderWidth: 1,
         fontSize: 25,
-        color: 'white',
+        color: 'Black',
         textAlign: 'center',
         paddingVertical: 10,
         marginVertical: 10,
     },
     formTextLinkRight: {
-        color: 'gray',
+        color: 'white',
         fontSize: 15,
         textAlign: 'right',
         width: '80%',
         marginVertical: 10,
     },
     formTextLinkCenter: {
-        color: 'gray',
+        color: 'white',
         fontSize: 16,
     },
     formHead2: {
@@ -49,7 +49,7 @@ module.exports = {
     formHead3: {
         fontSize: 20,
         // backgroundColor: 'white',
-        color: 'grey',
+        color: 'white',
         textAlign: 'center',
         fontWeight: '400',
         padding: 10,

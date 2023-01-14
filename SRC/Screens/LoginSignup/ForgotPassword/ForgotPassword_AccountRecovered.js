@@ -1,7 +1,8 @@
 import { StyleSheet, Text, View, Image, TextInput, TouchableOpacity } from 'react-native'
 import React from 'react'
 import { containerFull, goback, hr80, logo1, row } from '../../../CommonCss/pagecss'
-import logo from '../../../../assets/logo.png'
+import icon from '../../../../assets/icon.png'
+
 import { formbtn, formHead, formHead2, formHead3, formInput, formTextLinkCenter, formTextLinkRight } from '../../../CommonCss/Formcss'
 import { MaterialIcons } from '@expo/vector-icons';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
@@ -20,7 +21,7 @@ const ForgotPassword_AccountRecovered = ({ navigation }) => {
 
             </TouchableOpacity>
 
-            <Image source={logo} style={logo1} />
+            <Image source={icon} style={logo1} />
 
 
             <View style={row}>

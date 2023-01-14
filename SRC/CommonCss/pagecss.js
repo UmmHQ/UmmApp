@@ -2,7 +2,7 @@ module.exports = {
     containerFull: {
         width: '100%',
         height: '100%',
-        backgroundColor: 'black',
+        backgroundColor: '#5539FF',
         alignItems: 'center',
         justifyContent: 'center'
     },
@@ -16,7 +16,7 @@ module.exports = {
     hr80: {
         width: '80%',
         height: 1,
-        backgroundColor: 'gray',
+        backgroundColor: 'white',
         marginVertical: 20
     },
     row: {

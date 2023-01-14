@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View, Image, TextInput, ActivityIndicator} from 'react-native'
 import React from 'react'
-import logo from '../../../../assets/logo.png'
+import icon from '../../../../assets/icon.png'
 import { containerFull, hr80, logo1 } from '../../../CommonCss/pagecss'
 import { formbtn, formHead, formInput, formTextLinkCenter, formTextLinkRight } from '../../../CommonCss/Formcss'
 import AsyncStorage from '@react-native-async-storage/async-storage';
@@ -47,7 +47,7 @@ const Login = ({ navigation }) => {
     }
     return (
         <View style={containerFull}>
-            <Image source={logo} style={logo1} />
+            <Image source={icon} style={logo1} />
             <Text style={formHead}>Login</Text>
             <TextInput placeholder="Enter Your Email" style={formInput}
                 onChangeText={(text) => setEmail(text)}
