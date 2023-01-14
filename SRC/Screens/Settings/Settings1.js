@@ -1,7 +1,7 @@
 import {  StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 import { Ionicons } from '@expo/vector-icons';
-import { formHead, formHead2, formHead3 } from '../../CommonCss/formcss';
+import { formHead, formHead2, formHead3 } from '../../CommonCss/Formcss';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 const Settings1 = ({ navigation }) => {
     const logout = () => {

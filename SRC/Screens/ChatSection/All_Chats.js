@@ -1,7 +1,7 @@
 import { ScrollView, StyleSheet, Text, TextInput, View } from 'react-native'
 import React, { useEffect, useState } from 'react'
 import { Ionicons } from '@expo/vector-icons';
-import { formHead2 } from '../../CommonCss/formcss';
+import { formHead2 } from '../../CommonCss/Formcss';
 import ChatCard from '../../Cards/ChatCard';
 import { searchbar } from '../../CommonCss/pagecss';
 import AsyncStorage from '@react-native-async-storage/async-storage';

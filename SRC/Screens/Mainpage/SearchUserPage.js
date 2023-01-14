@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View, StatusBar, TextInput, ScrollView, ActivityIndicator } from 'react-native'
 import React, { useEffect, useState } from 'react'
 import { containerFull, searchbar } from '../../CommonCss/pagecss'
-import { formHead, formHead2 } from '../../CommonCss/formcss'
+import { formHead, formHead2 } from '../../CommonCss/Formcss'
 import Bottomnavbar from '../../Components/Bottomnavbar'
 import TopNavbar from '../../Components/TopNavbar'
 import FollowersRandomPost from '../../Components/FollowersRandomPost'

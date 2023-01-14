@@ -2,7 +2,7 @@ import { StyleSheet, Text, View, Image, TextInput, TouchableOpacity, ActivityInd
 import React, { useState } from 'react'
 import { containerFull, goback, hr80, logo1 } from '../../../CommonCss/pagecss'
 import logo from '../../../../assets/logo.png'
-import { formbtn, formHead, formHead2, formInput, formTextLinkCenter, formTextLinkRight } from '../../../CommonCss/formcss'
+import { formbtn, formHead, formHead2, formInput, formTextLinkCenter, formTextLinkRight } from '../../../CommonCss/Formcss'
 import { MaterialIcons } from '@expo/vector-icons';
 const Signup_EnterEmail = ({ navigation }) => {
     const [email, setEmail] = useState('')
