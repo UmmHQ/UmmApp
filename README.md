@@ -34,7 +34,7 @@
 
 ## Gallery
 ![image](https://raw.githubusercontent.com/ummdotorg/umm/main/gallery/Smartphone%20Sale%20Instagram%20Story/1.png "Login Page")
-Wanna see more photos? check [gallery!](https://github.com/ummdotco/umm/discussions)
+Wanna see more photos? check [gallery!](https://github.com/ummdotorg/umm/blob/main/Gallery.md)
 
 ## Community
 
