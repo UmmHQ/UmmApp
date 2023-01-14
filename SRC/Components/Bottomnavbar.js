@@ -83,9 +83,9 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     activeicons1: {
-        backgroundColor: 'white',
+        backgroundColor: '#5539FF',
         borderRadius: 50,
-        fontSize: 30,
+        fontSize: 35,
         padding: 10,
     }
 })
