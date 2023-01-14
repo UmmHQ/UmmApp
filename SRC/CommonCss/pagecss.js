@@ -10,8 +10,8 @@ module.exports = {
         // width: 200,
         height: 70,
         resizeMode: 'contain',
-        marginBottom: 20
-        // backgroundColor: 'white',
+        marginBottom: 20,
+    //   backgroundColor: 'white',
     },
     hr80: {
         width: '80%',

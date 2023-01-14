@@ -11,9 +11,9 @@ const ForgotPassword_AccountRecovered = ({ navigation }) => {
         <View style={containerFull}>
             <TouchableOpacity onPress={() => navigation.navigate('Login')} style={goback}>
 
-                <MaterialIcons name="arrow-back-ios" size={24} color="gray" />
+                <MaterialIcons name="arrow-back-ios" size={24} color="white" />
                 <Text style={{
-                    color: 'gray',
+                    color: 'white',
                     fontSize: 16,
                 }}
 
