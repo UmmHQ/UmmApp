@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     container: {
         width: '100%',
         height: '100%',
-        backgroundColor: 'black',
+        backgroundColor: '#5539FF',
         paddingVertical: 50,
     },
     c1: {
@@ -47,8 +47,8 @@ const styles = StyleSheet.create({
     notification: {
         width: '98%',
         height: 50,
-        backgroundColor: '#111111',
-        marginTop: 10,
+        backgroundColor: 'white',
+        marginTop: 5,
     }
 })
 

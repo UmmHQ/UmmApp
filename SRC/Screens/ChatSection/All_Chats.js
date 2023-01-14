@@ -104,7 +104,7 @@ const styles = StyleSheet.create({
     container: {
         width: '100%',
         height: '100%',
-        backgroundColor: 'black',
+        backgroundColor: '#5539FF',
     },
     gohomeicon: {
         position: 'absolute',
@@ -120,10 +120,10 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
         paddingVertical: 30,
-        backgroundColor: '#111111',
+        backgroundColor: '##5539FF',
         alignSelf: 'center',
         borderRadius: 20,
-        borderColor: 'gray',
+        borderColor: '#5539FF',
         borderWidth: 1,
     },
     searchbar: {
