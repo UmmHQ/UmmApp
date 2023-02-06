@@ -30,5 +30,22 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "description": "<p align=\"center\">   <a href=\"https://www.instagram.com/ummdotco\">     <img alt=\"umm\" src=\"https://raw.githubusercontent.com/ummdotorg/umm/main/assets/icon.png\" width=\"60\" />   </a> </p> <h1 align=\"center\">   Umm </h1>",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmmHQ/UmmApp.git"
+  },
+  "keywords": [
+    "Umm"
+  ],
+  "author": "Supriyo Mal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UmmHQ/UmmApp/issues"
+  },
+  "homepage": "https://github.com/UmmHQ/UmmApp#readme"
 }
