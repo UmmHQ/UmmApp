@@ -1,3 +1,5 @@
+// Importing all the necessary steps
+
 import { StyleSheet, Text, View, StatusBar, ScrollView, Image,  ActivityIndicator } from 'react-native'
 import React, { useEffect } from 'react'
 import { containerFull } from '../../CommonCss/pagecss'
@@ -8,6 +10,9 @@ import FollowersRandomPost from '../../Components/FollowersRandomPost'
 import nopic from '../../../assets/nopic.png'
 import { Foundation } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+
+
+// This component loads user data from a server and displays it in the UI.
 const My_UserProfile = ({ navigation }) => {
     const [userdata, setUserdata] = React.useState(null)
 
@@ -43,11 +48,11 @@ const My_UserProfile = ({ navigation }) => {
         loaddata()
     }, [])
 
-    console.log('userdata ', userdata)
+  console.log('userdata ', userdata)
 
 
 
-
+// Rendering user's profile information and posts, including the option to refresh, and displays a loading indicator until the user data is fetched.
     return (
         <View style={styles.container}>
             <StatusBar />
@@ -126,8 +131,11 @@ const My_UserProfile = ({ navigation }) => {
     )
 }
 
+// Exporting app
 export default My_UserProfile
 
+
+// Styling 
 const styles = StyleSheet.create({
     container: {
         width: '100%',
