@@ -30,15 +30,16 @@ import Other_UserProfile from './SRC/Screens/Profile/Other_UserProfile';
 import MessagePage from './SRC/Screens/ChatSection/MessagePage';
 
 
-
+// create a stack navigator to handle navigation
 const Stack = createNativeStackNavigator();
 
 export default function App() {
   return (
+    // use the NavigationContainer to wrap the app
     <NavigationContainer>
       <Stack.Navigator screenOptions={{
-        headerShown: false,
-        animation: 'slide_from_right'
+        headerShown: false, // hide the header
+        animation: 'slide_from_right'  // set the default animation for screen transitions
       }}>
         <Stack.Screen name="MainPage" component={Mainpage} />
         <Stack.Screen name="Login" component={Login}
