@@ -48,7 +48,7 @@ We hope to see you in the [discussions!](https://github.com/ummdotco/umm/discuss
 
 ## Contributing to Umm
 
-We welcome and appreciate any contributions to Umm! Whether you're looking to report a bug, propose a new feature, or make a change to the codebase, we're glad you're here. Before you start, We recommend you to read our [GUIDE BOOK.](https://github.com/ummdotorg/umm/blob/main/CONTRIBUTING.md)
+We welcome and appreciate any contributions to Umm! Whether you're looking to report a bug, propose a new feature, or make a change to the codebase, we're glad you're here. Before you start, We recommend you to read our [GUIDE BOOK.](https://github.com/UmmHQ/UmmApp/blob/main/docs/CONTRIBUTING.md)
 
 ### Opening a Bug Report
 If you've found a bug in Umm, we'd love to hear about it. Before opening a bug report, please check if the issue has already been reported by searching the existing issues. If the issue has not been reported, please open a new issue and include the following information:
