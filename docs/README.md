@@ -13,7 +13,7 @@
 <p align="center">
   Umm is an exciting new social media messaging app designed for the next generation of users. With a focus on privacy and security, Umm is built to provide a simple, smooth, and fast messaging experience for anyone in the world.
 </p>
-</h3>
+
 <br>
 
 <p align="center">
