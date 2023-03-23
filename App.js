@@ -1,21 +1,18 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
-import { NavigationContainer } from '@react-navigation/native';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { StatusBar } from 'expo-status-bar';  // Importing StatusBar component from expo-status-bar library
+import { StyleSheet, Text, View } from 'react-native';  // Importing StyleSheet, Text, and View components from react-native library
+import { NavigationContainer } from '@react-navigation/native';  // Importing NavigationContainer component from react-navigation/native library
+import { createNativeStackNavigator } from '@react-navigation/native-stack';  // Importing createNativeStackNavigator component from react-navigation/native-stack library
+
+// Importing various screens from different files
 import Login from './SRC/Screens/LoginSignup/Login/Login';
 import Signup_EnterEmail from './SRC/Screens/LoginSignup/Signup/Signup_EnterEmail';
 import Signup_AccountCreated from './SRC/Screens/LoginSignup/Signup/Signup_AccountCreated';
 import Signup_ChoosePassword from './SRC/Screens/LoginSignup/Signup/Signup_ChoosePassword';
 import Signup_EnterVerificationCode from './SRC/Screens/LoginSignup/Signup/Signup_EnterVerificationCode';
-
 import Signup_ChooseUsername from './SRC/Screens/LoginSignup/Signup/Signup_ChooseUsername';
-
 import ForgotPassword_EnterEmail from './SRC/Screens/LoginSignup/ForgotPassword/ForgotPassword_EnterEmail';
-
 import ForgotPassword_EnterVerificationCode from './SRC/Screens/LoginSignup/ForgotPassword/ForgotPassword_EnterVerificationCode';
-
 import ForgotPassword_ChoosePassword from './SRC/Screens/LoginSignup/ForgotPassword/ForgotPassword_ChoosePassword';
-
 import ForgotPassword_AccountRecovered from './SRC/Screens/LoginSignup/ForgotPassword/ForgotPassword_AccountRecovered';
 import Mainpage from './SRC/Screens/Mainpage/Mainpage';
 import All_Chats from './SRC/Screens/ChatSection/All_Chats';
@@ -31,14 +28,18 @@ import UploadProfilePicture from './SRC/Screens/Settings/UploadProfilePicture';
 import AddPost from './SRC/Screens/Mainpage/AddPost';
 import Other_UserProfile from './SRC/Screens/Profile/Other_UserProfile';
 import MessagePage from './SRC/Screens/ChatSection/MessagePage';
+
+
+// create a stack navigator to handle navigation
 const Stack = createNativeStackNavigator();
 
 export default function App() {
   return (
+    // use the NavigationContainer to wrap the app
     <NavigationContainer>
       <Stack.Navigator screenOptions={{
-        headerShown: false,
-        animation: 'slide_from_right'
+        headerShown: false, // hide the header
+        animation: 'slide_from_right'  // set the default animation for screen transitions
       }}>
         <Stack.Screen name="MainPage" component={Mainpage} />
         <Stack.Screen name="Login" component={Login}
