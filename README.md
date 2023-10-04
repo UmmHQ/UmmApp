@@ -38,7 +38,7 @@ Wanna see more photos? check [gallery!](https://github.com/ummdotorg/umm/blob/ma
 
 ## Community
 
-We have a friendly and active community of Umm users who are always happy to help out and discuss the tool. If you have a question, encounter any issues, or just want to chat with other users, you can join us on Github discussions. Simply head over to the "Discussions" tab on the Umm repository page and post your question or comment.
+We have a friendly and active community of Umm users who are always happy to help out and discuss the tool. If you have a question, encounter any issues, or just want to chat with other users, you can join us on GitHub discussions. Simply head over to the "Discussions" tab on the Umm repository page and post your question or comment.
 
 We encourage you to join the conversation and get involved in the community. Whether you're a seasoned developer or just getting started, we welcome you to share your thoughts and experiences with Umm. We're always looking for ways to improve the tool and your feedback is valuable to us.
 
@@ -68,7 +68,7 @@ If you believe the feature meets these criteria, please open a new issue and inc
 
 A clear and concise description of the feature
 Use cases for the feature
-Any relevant mockups or examples
+Are any relevant mockups or examples
 ### Making Changes to the Codebase
 If you'd like to make a change to the Umm codebase, we recommend opening an issue first to discuss the proposed change. This will help ensure that your work is not in vain and that the change is in line with the goals and vision of Umm.
 
@@ -81,11 +81,11 @@ Squash any unnecessary commits
 We appreciate your contributions and will review your pull request as soon as possible.
 
 ### Not Sure Where to Start?
-A good place to start contributing, is the [First time issues project](https://github.com/orgs/ummdotco/projects/1).
+A good place to start contributing is the [First-time issues project](https://github.com/orgs/ummdotco/projects/1).
 <br /><br />
 
 ## Get in touch
-If you have any questions or concerns, please feel free to reach out to us by email at messenger.umm@gmail.com or on https://twitter.com/Ummdotco. We're always happy to help and would love to hear from you.
+If you have any questions or concerns, please feel free to reach out to us by email at messenger.umm@gmail.com or at [Twitter](https://twitter.com/Ummhq). We're always happy to help and would love to hear from you.
 
 Thank you for your interest in Umm. We hope you enjoy using the app as much as we enjoyed building it!
 
